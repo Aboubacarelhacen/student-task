@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Ders Görev Takip",
+    "slug": "ders-gorev-takip",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f2f5f8"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
