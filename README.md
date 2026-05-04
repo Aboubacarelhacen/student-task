@@ -18,9 +18,13 @@ Stiller daha düzenli olması için `styles.js` dosyasında tutulmuştur.
 
 ## Ekran Görüntüsü
 
-Ekran görüntüsü buraya eklenebilir:
+Uygulamadan alınan ekran görüntüleri:
 
-![Ders Görev Takip Uygulaması ekran görüntüsü](./assets/ekran-goruntusu.png)
+![Ders Görev Takip Uygulaması ekran görüntüsü 1](<./Screenshot 2026-05-04 at 20.38.37.png>)
+
+![Ders Görev Takip Uygulaması ekran görüntüsü 2](<./Screenshot 2026-05-04 at 20.38.52.png>)
+
+![Ders Görev Takip Uygulaması ekran görüntüsü 3](<./Screenshot 2026-05-04 at 20.39.09.png>)
 
 ## Kısa Açıklama: Hangi Özellikler Var?
 
